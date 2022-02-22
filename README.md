@@ -1,15 +1,15 @@
 # template4denshouhi
-自然災害伝承碑アーカイブ用テンプレート
+自然災害伝承碑アーカイブ用テンプレート 動作テスト
 
 
 ## 碑名
-xxxxxxxxx
+大震災紀念碑
 
 ## 災害名
-xxxxxxxxx
+関東大震災
 
 ### 災害発生年月日
-YYYY-MM-DD
+1923-09-01
 
 ## 災害種別
  * [x] 地震
@@ -20,10 +20,10 @@ YYYY-MM-DD
  * [ ] その他
 
 ## 建立年
-YYYY
+1929
 
 ## 所在地
-xxxxxxxxx
+東京都新宿区新宿2-9-2
 
 ## 伝承内容
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+大正12年(1923)9月1日に発生した関東大震災では、旧四谷区でも死傷者168名燃火500戸などの被害があった。震災を記憶に留めるため、区内の新聞社を発起人に、区議会・町会・商業組合等103の賛助者・団体により建立された。「大震災紀念碑」の書は当時の増上寺法主による。
